@@ -36,3 +36,5 @@ desktop.ini
 models/
 output/
 predictions/
+data/raw/*.csv
+*.csv
